@@ -1,0 +1,666 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Foirceadul aithghearr, cheasnuighe, ar ttùs ar na òrdughadh le Coimhthional na Ndiàgh-aireadh aig Niàrmhanister an Sasgan. Leis an daontuighe Ard-seanadh Eagluis na Halbann, chum a bheith na chuid égin daomhodh Chrabuigh edir Eaglaisaioh Chriosd annsna tri Rioghochdaibh. / Ar na chur a ngaoidheilg, la Seanadh Earraghaoidheal. Do chuireadh so angclo anois an treas uair.</title>
+            <title>Shorter Catechism. Scottish Gaelic 1694.</title>
+            <author>Westminster Assembly</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03339</idno>
+            <idno type="STC">Wing F1396A</idno>
+            <idno type="STC">ESTC R177142</idno>
+            <idno type="EEBO-CITATION">51784385</idno>
+            <idno type="OCLC">ocm 51784385</idno>
+            <idno type="VID">174810</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03339)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174810)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2700:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Foirceadul aithghearr, cheasnuighe, ar ttùs ar na òrdughadh le Coimhthional na Ndiàgh-aireadh aig Niàrmhanister an Sasgan. Leis an daontuighe Ard-seanadh Eagluis na Halbann, chum a bheith na chuid égin daomhodh Chrabuigh edir Eaglaisaioh Chriosd annsna tri Rioghochdaibh. / Ar na chur a ngaoidheilg, la Seanadh Earraghaoidheal. Do chuireadh so angclo anois an treas uair.</title>
+                  <title>Shorter Catechism. Scottish Gaelic 1694.</title>
+                  <author>Westminster Assembly</author>
+               </titleStmt>
+               <extent>33 p.   </extent>
+               <publicationStmt>
+                  <publisher>le oighreachaibh Aindra Ainderson, a mbliadhnna ar Dtighearna,,</publisher>
+                  <pubPlace>Ar na chur a ngclò a Ndùn-éduin [Edinburgh] :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Bound and filmed after B2714A, Book of Psalms in Gaelic.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="gla">gla</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, Gaelic --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="gla">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174810:1"/>
+            <pb facs="tcp:174810:1"/>
+            <p>Foirceadul Aithghear, CHEASNUIGHE, Ar ttùs ar na òrdughadh le <hi>Coimhthionol</hi> na <hi>Ndiàgh<g ref="char:EOLhyphen"/>aireadh</hi> aig <hi>Niàrmha<g ref="char:EOLhyphen"/>niſter</hi> an SASGAN. Leis an Daontuighe <hi>Ard-ſeanadh Eagluis</hi> na HALBANN, chum a bheith na chuid égin daonmhodh Chràbhuidh edir Eaglaiſaibh CHRíOSD annſna trì RíOGHAGHDAIBH. Ar na chur a <hi>Ngaoidheilg,</hi> le <hi>Seanadh</hi> EARRAGHAOIDHEAL.</p>
+            <q>
+               <hi>Do chuireadh ſo angclo anois an treas uair.</hi>
+            </q>
+            <p>Ar na chur a ngclò a <hi>Ndùn-éduin</hi> le Oighreachaibh <hi>Aindra Ainderſon</hi> a Mbliadhna ar DTIGHEARNA 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:174810:2"/>
+            <pb n="3" facs="tcp:174810:2"/>
+            <head>A LEGHTHORA.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ar a rinn a ngràdh do bheith aguinn do phobul an Tighear<g ref="char:EOLhyphen"/>na, atà a gnàth<g ref="char:EOLhyphen"/>ughadh na teanga gaoidheilg, ſinne a bhnoſnughadh ar ttùs chum a Ncata<g ref="char:EOLhyphen"/>chioſma aithghearr ſo do tharruing as an bhèar la dhoibh; is amhluidh do bhroſnuigh an rùn cèudna ſinn roimh<g ref="char:EOLhyphen"/>e ſo, tuilleadh do na leabhraibh ſin do bhualadh a ngclò an dara huàir, le claochladh beg ar cuid do na focla ata ſan chèud Tranſlàſion. Oir ni amhàin gu nraibh na leabhair a nuair ſin, mar ataid anois, ro ghann, acht mar a gcèudna dhaithnigh ſinn le gnìthughadh na nleabhar do bheth aguinn, gu raibh an cèud Tranſlàſi<g ref="char:EOLhyphen"/>on ſin cruaidh ar an phobul, agus do<g ref="char:EOLhyphen"/>thuigſe, do bhrìogh go do lean ſinn ro theann ris an bhèarla; ſamh<g ref="char:EOLhyphen"/>luidh anois atàid ar a mbualadh à ngelò au treas uair, agus na ſo<g ref="char:EOLhyphen"/>thuigſe nò an chèud nair gu
+<pb n="4" facs="tcp:174810:3"/> mòr le began claochlaidh, <g ref="char:V">Ʋ</g>ime ſin, a Lèugh hor a Chrìoſduidh, gabh miſneach chum an leabhar ſo do thànig anois amach, do ghnàthugh<g ref="char:EOLhyphen"/>adh le díthchioll, ann a bhfuil cinn àrid a Chreidamh Chrìoſdnidh ar a ngcur ſìos go haithghearra iomlan, oir, <hi>Is ì ſo a bheatha ſhathain, eò<g ref="char:EOLhyphen"/>lus do bhith aguinn ait Dia, is air a mhac Ioſa Crìoſd,</hi> Eoin. <hi>17.3.</hi> Agus guidh thuſa air an Tighearna, ſo a bheannachadh mar mheadhon àr id chum eòluis ſhoiſgéil Chrìoſd a chraobhſgaoileadh annuſna crìochaibh gaoidhlachſa. Gràſa maille riot.</p>
+         </div>
+         <div type="catechism">
+            <pb n="5" facs="tcp:174810:3"/>
+            <head>Foirceadul aithghearr, CHE A SNUIGHE, Ar ttùs ar na òrdughadh le <hi>Coimhthionol</hi> na <hi>Ndiaghair<g ref="char:EOLhyphen"/>eadh</hi> ag <hi>Niàrmhaniſter,</hi> a SASGAN. Leis an Daontuighe <hi>Ard-ſeanadh Eagluis</hi> na HALBANN, chum a bheith na chuid ègin daonmhodh Chràbhuidh edir Eaglaiſ<g ref="char:EOLhyphen"/>aibh CHRIOSD 'ſna trì RíOGHACHDAIBH. CEISD.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">C</seg>Rèud is crìoch árid don duine?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Is ì is críoch àrid don duine Dia do ghlòrughadh agus do mhealtuin gu ſuthaine.</p>
+            <p n="2">2. C. <hi>Créud an riaghail thug Dia dhùinne dar dteagaſg chum go bhfèdmaoid eiſean do ghlòrughadh agus do mhealochduin?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Is è focal Dé (atá ar na chur ſìos a ſgriobtuiraibh an tſeintiomna agus an
+<pb n="6" facs="tcp:174810:4"/> tiomna nuaidh) amhàin is riaghail dùinne dar dteaguſg chum go fèdmaoid eiſion do ghlórughadh is do mhealtuin.</p>
+            <p n="3">3. C. <hi>Créud atá na Sgriobtuiridh gu hárid ag teàgaſg?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Atàid na Sgriobtuiridh gu hárid ag teagaſg, gach nì is cóir don duine chreidſin adtimchioll Dhé, agus an dleaſdanas atà Dia a giarraidh ar an duine.</p>
+            <p n="4">4. C. <hi>Crèud é Dia?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Dia is Spiorad é, ata neamh-chrioch-nuighach, biothbhuan, neamh-chlaoch-lodhach iona bhith, ghliocas, chumhachd, naomhthachd, cheartas, mhaitheas, agus fhìrinne.</p>
+            <p n="5">5. C. <hi>A bhfuilid tuille Dèe ann achd a haon?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Ni bhfuil acht a haon amhàin, an Dia beo fíor.</p>
+            <p n="6">6. C. <hi>Cia lìon pearſa atá ſan diaghachd?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Atáid trì pearſa ſan diaghachd, an tathair, an mac, agus an Spiorad naomhtha: agus an triarſa is aon Dia iad, ionann a<g ref="char:EOLhyphen"/>nádur, coimhmeas a ngcumhachd agus a nglóir.</p>
+            <p n="7">7. C. <hi>Crèud iad órduighthe Dé?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Is iad òrduighthe Dé, a rùn ſìor<g ref="char:EOLhyphen"/>ruidhe, do rèir comhairle a thoile, leis an dòrduigh ſé roimh láimh, chum a ghlóire fein, gach ni thig gu crích.</p>
+            <p n="8">8. C. <hi>Cíonnas atá Dia ag cur a órduigh<g ref="char:EOLhyphen"/>eadh a ngníomh?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Atà Dia ag cur a òrduigheadh a
+<pb n="7" facs="tcp:174810:4"/> ngnìomh a noibrighaibh an chruthaigh agus an fhreaſdail.</p>
+            <p n="9">9. C. <hi>Créud is obair an chruthaigh ann?</hi>
+            </p>
+            <p>
+               <hi>F,</hi> Is í obair an chruthaigh, Dia do dhéanamh na huile neithe do neimhni, le focal a chumhachda, a bhfeadh ſè laithe agus iad uile ro-mhaith.</p>
+            <p n="10">10. C. <hi>Cionnas do chruthaigh Dia an duine?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Do chruthaigh Dia an duine, fear agus bean, do réir a íomhaighe féin, a neòlas, fìreuntachd, naomhthachd, le nachdranachd oſcionn na gcrètuireadh.</p>
+            <p n="11">11. C. <hi>Créud iad oibrighe freaſdail Dè?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Is iad oibrighe freaſdail Dé, gu bhfuil ſé ag coimhed, agus ag riaghladh na nuile chrétuireadh, le a nuile ghníomh<g ref="char:EOLhyphen"/>arthaibh gu ro-naomhtha, ro-ghlic, agus gu ro-chumhachdach.</p>
+            <p n="12">12. C. <hi>Crèud an gníomh árid frreaſdail do rinn Dia do thaobh an duine ſan ſtaid ann do chruthuigheadh é?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> An tan do chruthuigh Dia an duine, do rinn ſe coimhcheangal beatha ris, ag iarraidh umhlachd iomlan air mar chumh<g ref="char:EOLhyphen"/>nant: agus ag toirmioſg dhó ní ar bith ithe do chraoibh eólais maith agus uilc, faoi phèin a bhàis.</p>
+            <p n="13">13. C. <hi>An dfanid ar gcéud ſinnſir ann ſan chéud ſtaid ann do chruthuighadh iad?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Ar bheith dar gcéud ſinnſearaibh ar a mbhfágbhail gu ſaoirſe a ndtoile fein, do thuiteadar on ſtaid ann do chru<g ref="char:EOLhyphen"/>thuigheadh iad le peacadh anadhaigh Dhé.</p>
+            <pb n="8" facs="tcp:174810:5"/>
+            <p n="14">14. C. <hi>Crèud è peacadh?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Is è peacadh briſeadh lagha Dè.</p>
+            <p n="15">15. C. <hi>Cia é an peacadh leis an do thuit ar céud-ſinnfir on ſtaid ann do cruthuigh<g ref="char:EOLhyphen"/>adh iad?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Do bè an peacadh leis an do thuit ar cèud-ſinnſir on ſtaid an do cruthuigh<g ref="char:EOLhyphen"/>adh iad, gu dith ſiad an meas toirmiſgthe.</p>
+            <p n="16">16. C. <hi>An do thuit an cinneadh daonna uile a ngcèudpheacadh Adhamh?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> O do bheth an coimhceangal ar, na dhèanamh re Adhamh, ni amhàin air, a ſhon fein acht air ſon a ſhliochd; uime ſin, an cinneadh daonna uile do thànig, anuas uaidh, tré ginolachadh gnàth<g ref="char:EOLhyphen"/>aighthe, do pheacuigh iad annſan agus do thuit ſiad maille ris ann ſa chèud-ſheach<g ref="char:EOLhyphen"/>ran.</p>
+            <p n="17">17. C. <hi>Crèud an ſtaid ann dtug an leag<g ref="char:EOLhyphen"/>adh ùd an cinneadh daonna?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Do thug an leagadh ùd an cinneadh daonna a ſtaid peacaidh agus truaighe.</p>
+            <p n="18">18. C. <hi>Crèud è peacadh na ſtaide ſin ann do thuit an duine?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Trid an leagadh ùd, atà an duine faoi chionnta cèudpheacaidh Adhamh, faoi eaſbhuidh na cod fhírentachd, faoi thruailleadh a nàduir gu hiomlan (da ngoirthear gu ccoitchionda peacadh gein) agus fa gach uile pheacadh gníomh<g ref="char:EOLhyphen"/>tha ata geintin uaidhe ſin.</p>
+            <p n="19">19. C. <hi>Crèud é truaighe na staide ſin ann, do thuit an duine?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Trid an leagadh ùd, do chaill an
+<pb n="9" facs="tcp:174810:5"/> cinneadh daonna uile a ngcomhchomunn re Dia, atáid faoi fheirg agus mhallach<g ref="char:EOLhyphen"/>adh Dhé, agus mar ſin atáid fa gach uile thruaighe ſan bheàthuidhſa, fan bhás fein, agus fa phianaibh ifrinn gu ſíorruidhe.</p>
+            <p n="20">20. C. <hi>An dfág Dia an cinneadh daonna uile da mbeith caillte a nſtaid an pheacaidh agus na truaighe?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Ar dtagha do Dhia da ghean-maith fein, roimh thoſach an tſaoghail, cuid ègin do na daoinaibh chum na beatha ſuthaine, do rinn ſé coimhcheangal gràſa riù; da nſaoradh O ſtaid an pheacaidh agus na truaighe, agus da ntabhairt gu ſtaid ſlánuighe tríd fhearſaoruidh.</p>
+            <p n="21">21. C. <hi>Cia is fearſaoruidh do phobul tagha Dè?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Is è is aon fhearſaoruidh do pho<g ref="char:EOLhyphen"/>bul tagha Dè, an Tighearna Ioſa Críoſd amháin, neach ar bheith dhò na mhac ſíorruidhe do Dhia, do rinneadh è na dhuine, agus mar ſin ata ſè ag fantain nà Dhia, agus nà dhuine, ann dá nádur edirdhealuighte, agus a naon-phearſoin a mfeaſda.</p>
+            <p n="22">22. C. <hi>Ar bheith do Chríoſd na mhac do Dhia, Cionnas do rinneadh ſè na dhuine?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Do rinneadh Críoſd mac Dhé na dhuine, le corp fíor agus anam réuſunta do ghabhail chuige fein, ar bheith dhò le cumhachd an Spioraid naoimh ar na ghabhail a mbroinn muire na hòighe, agus ar a bhreith lé, gidheadh a bhfég<g ref="char:EOLhyphen"/>mhais peacaidh.</p>
+            <pb n="10" facs="tcp:174810:6"/>
+            <p n="23">23. C. <hi>Cia iad na hoifigeadha atá Crí<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ag cur a ngnìomh mar ar fearſaoruidhne?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Atá Críoſd mar ar fearſaoruidhne ag cur angnìomh Oifigeadha Fàigh, Sagairt, agus Rìogh, araon an ſtaid an Iriſluigh agus an Arduighe.</p>
+            <p n="24">24. C. <hi>Cionnas ata Críoſd ag cur Oifig Fáigh a ngníomh?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Atá Críoſd ag cur Oifig Fàigh a ngníomh, ann toil Dè chum ar ſlánuighe dfhoillſiughadh dhùinn, le na fhocal agus le na Spiorad.</p>
+            <p n="25">25. C. <hi>Cionnas ata Críoſd ag cur Oifig Sagairt a ngníomh?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> Ata Crioſd ag cur Oifig Sagairt a ngnìomh, ann é fein do thabhairt ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> aon-uair na íobairt do dhíoladh ceartais Dè; agus do dhèanamh ar réitighare Dia; agus an gnátheadarghuidhe da dhéanamh ar ar ſoinne.</p>
+            <p n="26">26. C. <hi>Cionnas ata Críoſd ag cur Oifig Rìogh a ngnîomh?</hi>
+            </p>
+            <p>F. Ata Críoſd ag cur Oifig Ríogh ngniomh, le ſinne do cheannſughadh dhò fein, do riaghladh agus do ſheaſamh agus le coſg do chur ar na huilibh is naimhde dhòſan agus dùinne.</p>
+            <p n="27">27. C. <hi>Cia iad na neithe iona raibh Crìoſd ar na iri liughadh?</hi>
+            </p>
+            <p>F. Do bhí Críoſd ar na iriſliughadh, iona bheith ar a bhreith, agus ſin a nſtaid íſail, ar na dhèanamh faoi an lagh, ag dol fa gach truaighe na beathaſa, fa fheirg Dhè, agus fa bhàs mhálluighte na
+<pb n="11" facs="tcp:174810:6"/> croiche, iona bheith ar na adhlacadh, agus ag fuireach faoi chumhachda an bháis re ſeal.</p>
+            <p n="28">28. C. <hi>Cia iad na neithe iona raibh Críoſd ar na árdughadh?</hi>
+            </p>
+            <p>F. Do bhí Críoſd ar na árdughadh, iona eiſeirigh o na marbhuibh ar an treas là, iona dhul ſuas ar neamh, iona ſhuidhe ar deaſlàimh Dhé a nathar, agus iona theachd do thabhairt breitheamhnuis ár an tſhaoghal ann ſan là dheigheannach.</p>
+            <p n="29">29. C. <hi>Cionnas atámoid air ar ndéanamh ionar luchd comhpáirt don tſaoirſe do choſainn Crìoſd?</hi>
+            </p>
+            <p>F. Atámoid air ar ndèanamh ionar luchd-comhpàirt don tſaoirſe do choſainn Crìoſd, leis an tſaoirſe ſin a chur rinne gu héifeachdach le na Spiorad naomh<g ref="char:EOLhyphen"/>thaſan.</p>
+            <p n="30">30. C. <hi>Cionnas atá an Spiorad ag cur rinne na ſaoirſe ſin do choſainn Críoſd?</hi>
+            </p>
+            <p>F. Atà an Spiorad ag cur rinne na ſaoirſe ſin do choſain Críoſd, le crei<g ref="char:EOLhyphen"/>deamh oibriughadh ionnain leis an bhfuil ſé ag ar comhcheangal re Críoſd ionar gairm éifeachdigh.</p>
+            <p n="31">31. C. <hi>Créud is gairm èifeachdach ann?</hi>
+            </p>
+            <p>F. Is gairm éifeachdach ann, obair Spiorad Dè, leis an bhfuil ſé ag ar bhfág<g ref="char:EOLhyphen"/>bhail ris ionnain fein a bpeacadh agus truaighe, ag ſoillſiugh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dh ar ninntinr<g ref="char:EOLhyphen"/>eadha a neòlus Chríoſd, ag athnuadhugh<g ref="char:EOLhyphen"/>adh ar dtoile, agus air a lorg ſin ag ar ndéanamh deònach agus comaſach ar Ioſa
+<pb n="12" facs="tcp:174810:7"/> Críoſd a dhlù-ghabh il chuguin, mar <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſè ar na thairgſe dhùinne go ſaor <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſan tſoiſgeul.</p>
+            <p n="32">32. C. <hi>Cia iad na ſochair atá an d<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> ata ar a ngairm gu hèifeachdach ag fagh<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> ſan bheathaſa?</hi>
+            </p>
+            <p>F. Is ſiad na ſochair atà an drong <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ag faghail ſan bheathaſa, Fìrenochadh Uchdmhacachd, Naomhachadh; agus ga<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> uile ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>chair atá ag ſruthadh uatha ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bheathuidhſe.</p>
+            <p n="33">33. C. <hi>Créud is Firenochadh ann?</hi>
+            </p>
+            <p>F. Is è Fírenochadh gnìomh ſao<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ghràſa Dè, leis an bhfuil ſé ag martheam<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dhuinné ar nuile pheacuidh, agus ag <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>bhail rinne mar fhìrenaibh iona fhiag<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>naíſe fein, agus ſin amháin ar ſon fíne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tachd Chrìoſd ar na meas dùinne, ag<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ar a ghabhail chugainn le creideamh a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mhàin.</p>
+            <p n="34">34. C. <hi>Crèud is uchdmhacachd ann?</hi>
+            </p>
+            <p>F. Is í an uchdmhacachd, gníomh ſaorghràſa Dè, leis an bhfuilmaoìd air a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ngabhail a náireamh chloinne Dé, ag<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> leis an bhfuil còir aguinn ar gach ui<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhocharaibh agus uram bheanus doibh.</p>
+            <p n="35">35. C. <hi>Crèud is naomha chadh ann?</hi>
+            </p>
+            <p>F. An naomhachadh is obair ſaorghrá<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Dè è, leis an bhfuil ſinne air ar nathnuadh<g ref="char:EOLhyphen"/>ughadh ſan duine gu hiomlan do réi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fioghrach Dhé, agus air ár déanamh comaſach ni is mò agus ni is mò chu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> bàſughadh do pheacadh, is chum bheit<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> beo don fhírentachd.</p>
+            <pb n="13" facs="tcp:174810:7"/>
+            <p n="36">36. C. <hi>Crèud iad no ſochair atà ann ſa b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eathuidhſa a ngcomhchuideachd nó ag ſr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>hadh ò nfhirenochadh, on uchdmhacachd, agus on naomhachadh?</hi>
+            </p>
+            <p>F. Is iad na ſochair atá ſan bheathuidhſa na ngcomhchuideachd nò ag ſruthadh uatha ſin, dearbh-bheachd air grádh Dhè, ſíothchaint coguis, aoibhnas ſan Spiorad naomh, fùs a ngràſa, agus buan<g ref="char:EOLhyphen"/>mhairtheachduin ann, gu teachd na crìche deigheannuighe.</p>
+            <p n="37">37. C. <hi>Créud iad na ſochair atà na creid<g ref="char:EOLhyphen"/>mhigh ag faghail</hi> ò <hi>Chríoſd, re ham a mbais?</hi>
+            </p>
+            <p>F. Atàid anmanna na ngcreidmhach re ham a mbáis air a ndèanamh foirfe ann naomhthachd, agus ar an mball atáid ag dul chum glòire; agus ar mbeith da ngcorpuibh ſíor-cheangailte le Crìoſd, do níd comhnuidh iona nuaigheannuibh gu nuig a neiſeirigh.</p>
+            <p n="38">38. C. <hi>Créud iad na ſochair atà na creid<g ref="char:EOLhyphen"/>mhigh ag faghail</hi> ó <hi>Chríoſd ſan eiſeirighe?</hi>
+            </p>
+            <p>F. Ann ſan eiſeirighe, air bheith do na creidmhachaibh air a ndùſgadh as a nuaigh a nglóir, bìthid ſiad air a naith<g ref="char:EOLhyphen"/>niughadh gu follas, agus air a niàn-ſaor<g ref="char:EOLhyphen"/>adh a nlà an bhreitheamhnais, agus air a ndèanamh uile-bheannuight ann Dia a lán-mhealtuin gu ſìorruidhe.</p>
+            <p n="39">39. C. <hi>Crèud</hi> ê <hi>an dleaſdanas atà Dia agiarruidh air an duine?</hi>
+            </p>
+            <p>F. Is é an dleaſdanas atá Dia ag iar<g ref="char:EOLhyphen"/>ruidh air an duine, umhlachd da thoil atá air na foillſiughadh.</p>
+            <pb n="14" facs="tcp:174810:8"/>
+            <p n="40">40. C. <hi>Crèud an riaghuil umhlachda thug Dia don duine ar thoſach?</hi>
+            </p>
+            <p>F. Do bí an riaghuil umhlachda thug Dia don duine ar thoſach, lagh na modhannidh.</p>
+            <p n="41">41. C. <hi>Cía</hi> é <hi>an táite iona bhfuil an laghſa na modhannidh ar na chur ſíos g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> haithghearra iomlan?</hi>
+            </p>
+            <p>F. Atà an laghſa na modhannidh ar na chur ſíos gu haithghearra iomlan a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ſna deich Aitheantaibh.</p>
+            <p n="42">42. C. <hi>Crèud is ſuim do na deich Aitheantaibh?</hi>
+            </p>
+            <p>F. Is ì is ſuim do na deich Aithean<g ref="char:EOLhyphen"/>taibh, an Tighearna ar Dia do ghràdh<g ref="char:EOLhyphen"/>ughadh ſe ar nuile chroidhe, le ar nuile anam, le ar nuile neart, le ar nuile <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tinn, agus ar gcomharſan do ghrádhugh<g ref="char:EOLhyphen"/>adh mar ſinn fein.</p>
+            <p n="43">43. C. <hi>Créud is Roimhràite do na dei<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Aitheantaibh?</hi>
+            </p>
+            <p>F. Atà roimhràite na ndeich Aithean<g ref="char:EOLhyphen"/>ta ar na chur ſìos annſna briathraibhſe <hi>[Is miſe an Tighearna do Dhia neach <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thuſa as talamh na Héghiphte, as tigh na daoirſe?]</hi>
+            </p>
+            <p n="44">44. C. <hi>Crèud atà roimhràite na n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Aitheanta ag teagaſg dhùinne?</hi>
+            </p>
+            <p>F. Atà roimhráite na ndeich Aìthean<g ref="char:EOLhyphen"/>ta ag teagaſg dhùinne, do bhriogh gur è Dia is Tighearna ann, agus gur è is Dia agus is fearſaoruidh dhùinne, uime fin gu bhfuil a Dhfiachaibh oruinne a uile aitheantaſan do choimhead.</p>
+            <pb n="15" facs="tcp:174810:8"/>
+            <p n="45">45. C. <hi>Cía</hi> ì <hi>an chèud Aithne?</hi>
+            </p>
+            <p>F. Is ì an chéud Aithne <hi>[Na biodh Dèe eile agad am fhiaghnaiſe.]</hi>
+            </p>
+            <p n="46">46. C. <hi>Créud atá ar na iarruidh ſan chéud Aithne?</hi>
+            </p>
+            <p>F. Atà an chéud aithne ag iarruidh oruinn, aithniughadh agus admhail gur bè Dia amháin an fìor Dhia, agus gur bè ar Diaine è, agus ſinne adhradh agus glóir do thabhairt dò da réir ſin.</p>
+            <p n="47">47. C. <hi>Crèud atá ar na thoirmioſg ſan chèud Aithne?</hi>
+            </p>
+            <p>F. Atà an chèud Aithne ag toirmioſg an Dia fìor do ſhénadh, nó an tadhradh agus an ghlóir a dhlighthear dhòſan do ligionn thoruinn, nó a ntabhairt daon neach eile.</p>
+            <p n="48">48. C. <hi>Crèud atá ar na theagaſg dhúinne gu ſunnradhach annſna briath<g ref="char:EOLhyphen"/>raibhſe ſan chèud Aithne</hi> [am fhiagh<g ref="char:EOLhyphen"/>nuiſe?]</p>
+            <p>F. Atáid na briathraſa ſan chéud Aithne <hi>[am fhiaghnuiſe]</hi> ag teagaſg dhúinne, gu bhfuil Dia do chí na huile neithe ag tabhairt aire don pheacadhſa, eadhon Dia ar bith eile do bheith aguinn, agus gu bhfuil ſè ro-dhiombhach dheth.</p>
+            <p n="49">49 C. <hi>Crèud</hi> ì <hi>an dara Haithne?</hi>
+            </p>
+            <p>F. Is í an dara Haithne <hi>[Na dèan duit fein ìomhaigh ghrábhalta nò én<g ref="char:EOLhyphen"/>fhioghair neithe atà ſhuas air neamh, nó ar talmhuin a bhos, nò ſa nuiſge fan thalmhuin, na gèillſe dhoibh, agus na déan ſeirbhis dhoibh: oir miſe an Ti<g ref="char:EOLhyphen"/>ghearna
+<pb n="16" facs="tcp:174810:9"/> do Dhia is Dia èudmhur me, leanas aingidheachd na naithreadh air an gcloinn, go nuige an treas nò an ceathramh cém no glùn ghinealuigh air an droing fhuathuigheas me: agus a fhoillfigheas tro<g ref="char:EOLhyphen"/>caire do mhìltîbh don droing a ghrádh<g ref="char:EOLhyphen"/>uigheas me, agus a choimheadas maithean<g ref="char:EOLhyphen"/>ta.</hi>
+            </p>
+            <p n="50">50. C. <hi>Créud iarrthar ſan dara Haithne?</hi>
+            </p>
+            <p>F. Atá an dara Haithne ag iarruidh gach uile ghnè adhraidh agus órduighe dhiagha a diarr Dia iona fhocal do ghabhail chuguinn, do chonmhail, agus do choimhead gu glan iomlan.</p>
+            <p n="51">51. C. <hi>Créud anà an dara Haithne ga thoirmeaſg?</hi>
+            </p>
+            <p>F. Atá an dara Haithne ag toirmeaſg, adhradh do Dhia tríd ìomhaigh, nò air modh ar bith óile, nach bhfuil órduighte iona fhocal féin.</p>
+            <p n="52">52. C. <hi>Créud iad na réſuin atá ceang<g ref="char:EOLhyphen"/>ailte ris an dara Haithne?</hi>
+            </p>
+            <p>F. Is iad na réſuin atà ceangailte ris an dara Haithne, àrd-uachdranachd Dè os ar gcionn, an tſealbh-chóir atá aig ionnuinn, an gràdh laiſte agus èud atà àige da adhradh fein.</p>
+            <p n="53">53. C. <hi>Cia</hi> ì <hi>an treas Aithne?</hi>
+            </p>
+            <p>F. Is ì an treas Aithne, [<hi>Na tabhair ainm an Tighearna do Dhia an diomh<g ref="char:EOLhyphen"/>aoineas; oir ge bè bhèiras a ainm a ndiomhaoineas, ni budh neamhchionrach a bhfiaghnuiſi an Tighearna</hi> è, <hi>nó, ni a meaſ an Tighearna neamhchiontach</hi> é.]</p>
+            <pb n="17" facs="tcp:174810:9"/>
+            <p n="54">54. C. <hi>Crèud iarrthar ſan treas Aithne?</hi>
+            </p>
+            <p>F. Atá an treas Aithne ag iarruidh, gnáthughadh naomhtha urramach do dhéanamh ar ainmnaibh, tiodolaibh, ór<g ref="char:EOLhyphen"/>duighaibh, briathraibh, agus oibrighaibh Dhè.</p>
+            <p n="55">55. C. <hi>Créud atá ar na thoirmeaſg ſan treas Aithne?</hi>
+            </p>
+            <p>F. Atá an treas Aithne ag toirmeaſg mínaomhthachadh nó míghnáthughadh ar bith do dhéanamh air èinni leis an bhfuil Dia ga fhoillſiughadh fein.</p>
+            <p n="56">56. C. <hi>Cia</hi> è <hi>an réſun atá ar na cheang<g ref="char:EOLhyphen"/>al ris an treas Aithne?</hi>
+            </p>
+            <p>F. Is è an réſun atà ar na cheangal ris an treas Aithne, gè gu bhfèdfuid luchd briſeadh na Haithneaſa dol ſaor ó dhioghaltas do thaobh dhaoineadh, gidhheadh ni fhuilngionn an Tighearna ar Diaine dhoibh dol as ó a cheart<g ref="char:EOLhyphen"/>bhreitheamhnas fein.</p>
+            <p n="57">57. C. <hi>Cia</hi> î <hi>an ceathramhadh Aithne?</hi>
+            </p>
+            <p>F. Is í an ceathramhadh Aithne, [<hi>Cuimhnigh là na Saboide a choimh<g ref="char:EOLhyphen"/>ead naomhtha: a ſé làethibh déan hobair, agus huile ſhaothair; acht is</hi> è <hi>an ſeachdmhadh lá Sáboid an Tighear<g ref="char:EOLhyphen"/>na do Dhia; na déan èn obair ſan ló ſin, tù fein, nó do mhac, nò hinghean, hóglach, nó do bhanóglach, nò hainmhidhe, nó do choigcrioch atà don taobh aſtigh dot dhoirſibh: oir a ſè làethibh do rinn an Tighearna, neamh agas talamh,
+<pb n="18" facs="tcp:174810:10"/> a nfhairge, agas gach nì atà ionnta, agas do ghabh ſe comhnuidh an ſeachdmhadh là, uime ſin do bheannuigh an Tighearna là na Sáboide, agus do naomhthuigh ſe</hi> é.]</p>
+            <p n="58">58. C. <hi>Crèud iarrthar ſan cheathramhadh Aithne?</hi>
+            </p>
+            <p>F. Atá an ceathramhadh Aithne ag iar<g ref="char:EOLhyphen"/>ruidh coimhead naomhtha do dhéanamh do Dhia ar na tràthaibh ſuighighte do dhòrduigh ſé fein iona fhocal, gu ſunn<g ref="char:EOLhyphen"/>radhach aon lá iomlan do na ſeachd láethibh, chum a bheith na Sháboid naomhtha dhò fein.</p>
+            <p n="59">59. C. <hi>Cìa an lá do na ſeachd láethibh a dòrduigh Dia bheith na Shàboid gach ſeachdmhuin?</hi>
+            </p>
+            <p>F. O thoſach an tſaoghail anuas gu nuig eiſeirigh Chríoſd dòrduigh Dia an ſeachdmhadh lá do bheith na Sháboid gach ſeachdmhuin; agas a riamh ò ſin a leth, an cèud là don tſeachdmhuin a dhfhantain agus do ghnáthughadh gu deireadh an domhain chum a bheith na Shàboid do na Críoſduighaibh.</p>
+            <p n="60">60. C <hi>Cionnas is còir an Tſàboid do naomhthughadh?</hi>
+            </p>
+            <p>F. Is còir an Tſáboid do naomhthugh<g ref="char:EOLhyphen"/>adh le támh naomhtha do ghabhail re fad an là ſin gu hiomlan, agus ſin fos o ghnothuighaibh ſaoghalta, o aigher agus ſúgradh atá ceaduighte ar làethibh eile, agus a nuile aimſir ſin do bhuiliughadh re oibrighibh cràbhuidh gu díomhuir agus go follus, le a muigh don mhèad
+<pb n="19" facs="tcp:174810:10"/> is atá iomchubhuidh re na chaitheamh re hoibrighuibh na hégin agus na trócaire.</p>
+            <p n="61">61. C. <hi>Créud atá ar na thoirmeaſg ſan cheathramhadh Aithne?</hi>
+            </p>
+            <p>F. Atá an ceathramhadh Aithne ag toirmeaſg mínaomhthachadh na Sàboide le díomhaoineas, agas neamhchùram a noibrighibh an lá ſin, nó fós le ſmuain<g ref="char:EOLhyphen"/>tighuibh, briathraibh, nò gnìomharthaibh neamhfhèumoil a dtimchioll ghno<g ref="char:EOLhyphen"/>thuighheadh ſaoghalta, nò re aigher agus ſùgradh.</p>
+            <p n="62">62. C. <hi>Cía iad na Rèſuin atà ceangailte ris an ceathramhadh Aithne?</hi>
+            </p>
+            <p>F. Is iad ſo na Rèſuin atá ceangailte ris an ceathramhadh Aithne, Dia do bheith ag ceadughadh dhùinne, ſé láethe don tſeachdmhuin dar gnothuighaibh fein, agus ag agra córa àrighthe dhò fein air an tſeachdmhadh lá, agus a neiſiomplair do thug ſe fein uaidhe, agus go do bheannuigh ſe lá na Sáboide.</p>
+            <p n="63">63. C. <hi>Cìa</hi> í <hi>an cùigeadh Aithne?</hi>
+            </p>
+            <p>F. Is í an cúigeadh Aithne, <hi>[Tabhair onoir dod tathair, agas dod mháthair: chum go ſínfidhe do láethe air a nfhearann do bheir an Tighearna do Dhia dhuit.]</hi>
+            </p>
+            <p n="64">64. C. <hi>Créud iarrthar ſan chùigeadh Aithne?</hi>
+            </p>
+            <p>F. Atá an cúigeadh Aithne ag iar<g ref="char:EOLhyphen"/>ruidh, a nonoir do choimhead, agus an dleaſdanas do choimhlíonadh, atá a
+<pb n="20" facs="tcp:174810:11"/> dhfiachaibh do thabhairt do gach èin<g ref="char:EOLhyphen"/>neach a lorg a ninmhe agus an dáim haibh dha chéile fa leth, mar atáid a náirde, nó nìſle, nò ngcoimhmeas inmhe.</p>
+            <p n="65">65. C. <hi>Créud atá air na thoirmeaſg ſan chùigeadh Aithne?</hi>
+            </p>
+            <p>F. Atá an cúigeadh aithne ag toir<g ref="char:EOLhyphen"/>meaſg ní ar bith do dhéanamh atá a nagh<g ref="char:EOLhyphen"/>aidh na honora agus an dleaſdanaìs, a bheanus do gach èinneach a lorg a nin<g ref="char:EOLhyphen"/>mhe agus a ndáimhe fa leth da chéile.</p>
+            <p n="66">66. C. <hi>Crèud é an Rèſun atá ceanguilte ris an chúigeadh Aithne?</hi>
+            </p>
+            <p>F. Is è an Réſun atá ceanguilte ris an chùigeadh Aithne, gealladh ar ſonus agus ſaoghal fada d'uile luchd coimhead na haithneſa, do réir mar thig ſin le glóir Dhè agus a maith fein.</p>
+            <p n="67">67. C. <hi>Cia</hi> ì <hi>an ſeiſeadh Aithne?</hi>
+            </p>
+            <p>F. Is ì an ſeiſeadh Aithne, <hi>[Na déan marbhadh.]</hi>
+            </p>
+            <p n="68">68. C. <hi>Crèud iarrthar ſan tſeiſeadh Aithne?</hi>
+            </p>
+            <p>F. Atà an ſeiſeadh Aithne ag iarruidh g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch uile dhithchioll dligheach do dhean<g ref="char:EOLhyphen"/>amh chum ar nanma fein, agus anma dhaoine eile do choimhead.</p>
+            <p n="69">69. C <hi>Crèud atá air na thoirmeaſg ſan tſeiſeadh Aithne?</hi>
+            </p>
+            <p>F. Atá an ſeiſeadh Aithne ag toirmeaſg ar nanma do bhuain aſuin fein, nò as ar gcomharſan gu hègcorach: agus gach uile neithe a chuidiughas ſin do dhèanamh.</p>
+            <pb n="21" facs="tcp:174810:11"/>
+            <p n="70">70. C. <hi>Cía</hi> í <hi>an ſeachdmhadh Aithne?</hi>
+            </p>
+            <p>F. Is í an ſeachdmhadh Aithne, <hi>[Na déan adhaltrannus.]</hi>
+            </p>
+            <p n="71">71. C. <hi>Crèud iarrthar ſan tſeachdmhadh Aithne?</hi>
+            </p>
+            <p>F. Atà an ſeachdmhadh Aithne ag iar<g ref="char:EOLhyphen"/>ruidh coimhead do bheith aguinn air ar geanmnuigheachd fein, agus geanm<g ref="char:EOLhyphen"/>nuigheachd ar gcomharſoin, ionar gcroidhe, ionar gcainnte, agus ionar mbéaſuibh.</p>
+            <p n="72">72. C. <hi>Créud atà an ſeachdmhadh Aithne ga thoirmeaſg?</hi>
+            </p>
+            <p>F. Atá an ſeachdmhadh Aithne ag toirmeaſg gach uile ſmuaintiughadh, briathar, agus gníomh neamhgheanm<g ref="char:EOLhyphen"/>nuigh.</p>
+            <p n="73">73. C. <hi>Cìa</hi> ì <hi>an tochdmhadh Aithne?</hi>
+            </p>
+            <p>F. Is í an tochdmhadh Aithne, <hi>[Na dèan goid.]</hi>
+            </p>
+            <p n="74">74. C. <hi>Crèud iarrthar ſan ochdmhadh Aithne?</hi>
+            </p>
+            <p>F. Atá an tochdmhadh Aithne ag iar<g ref="char:EOLhyphen"/>ruidh g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch cuid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ughadh laghamhail do dhèanamh, do chum ar ſaidhbhrios ſaoghalta fein agus ſaidhbhrios dhaoine eile, do chur air aghaidh.</p>
+            <p n="75">75. C. <hi>Crèud atà ar na thoirmeaſg ſan ochdmhadh Aithne?</hi>
+            </p>
+            <p>F. Atà an tochdmhadh Aithne ag toirmeaſg gach neithe ar bith a bhacas ar ſaidhbhrios ſaoghalta fein, no ſaidhbhrios ar gcomharſain gu hégcorach.</p>
+            <p n="76">76. C. <hi>Cìa</hi> í <hi>an naoiamh Aithne?</hi>
+            </p>
+            <pb n="22" facs="tcp:174810:12"/>
+            <p>F. Is í an naoiamh Aithne, <hi>[Na déan fiaghnuiſe bhréige a naghuidh do chomharfoin?]</hi>
+            </p>
+            <p n="77">77. C. <hi>Crèud iarrthar ſan naoiamh Aithne?</hi>
+            </p>
+            <p>F. Atá an naoiamh Aithne ag iarruidh a nfhírinn edir duine is duine; agus ar deadh-ainm fein, agus deadh-ainm ar gcoimharſan do ſheaſamh, agus ſin gu ſunnradhach an fiaghnuis do dhéanamh.</p>
+            <p n="78">78. C. <hi>Créud atá ar na thoirmeaſg ſan naoiamh Aithne?</hi>
+            </p>
+            <p>F. Atá an naoiamh Aithne ag toir<g ref="char:EOLhyphen"/>meaſg gach neithe atá ag cur lethtrom ar a nfhírinne, nò ní égcóir air ar deadh<g ref="char:EOLhyphen"/>ainm fein, nó air deadhainm ar gcomhár<g ref="char:EOLhyphen"/>ſan.</p>
+            <p n="79">79. C. <hi>Cia</hi> í <hi>an deicheamh Aithne?</hi>
+            </p>
+            <p>F. Is ì an deicheamh Aithne, <hi>[Na ſmuain duit fein áros no teach do chomharſaín, na ſmuain duit fein bean do chomharſain, nò a òglach, nò a bhanòglach, nò a dhamh, nó a aſal nò èinní eile bheanus dod chomharſan.]</hi>
+            </p>
+            <p n="80">80. C. <hi>Créud iarrthar ſan deichemah Aithne?</hi>
+            </p>
+            <p>F. Atà an deicheamh Aithne ag iar<g ref="char:EOLhyphen"/>ruidh oruinn, bheith làn-toilighte le ar ſtaid fein, maille re fonn ceart agus inntinn ſheirceamhuil do bheith ionn<g ref="char:EOLhyphen"/>uinn dar gcomharſan agus do gach uile ní bheanas dò.</p>
+            <p n="81">81. C. <hi>Créud atá ar na thoirmeaſg ſan deicheamh Aithne?</hi>
+            </p>
+            <pb n="23" facs="tcp:174810:12"/>
+            <p>F. Atà an deicheamh Aithne ag toir<g ref="char:EOLhyphen"/>mioſg gach talach air ar ſdaid fein, gach doilghios agus formad re maith ar gcomharſoin, gach togra agus miann anchneſt, chum èin-nì dambì aige.</p>
+            <p n="82">82. C. <hi>An bhfuil neach ar bith comaſ<g ref="char:EOLhyphen"/>ach ar Aitheanta Dé do choimhead gu foirfe?</hi>
+            </p>
+            <p>F. Ni hédir le hêinneach nach bhfuil acht na dhuine amhàin, ò chéud thuitim ar ſinnſear aitheanta Dè do choimhead gu foirfe ſan bheathuidhſe, acht atà ſiad gach lá ga mbriſeadh a ſmuaintiughadh, a bhfocal, agus a ngnìomh</p>
+            <p n="83">83. C. <hi>An bhfuil gach uile bhriſeadh an lagha coimhmcas a nuathmhuireachd?</hi>
+            </p>
+            <p>F. Atá cuid do pheacaidhaibh ionnta fein, agus do bhrìgh mòran do neithibh atà ga nanntromughadh ni is fuathmhuire na chèile a bhfiaghnu ſe Dé.</p>
+            <p n="84">84. C. <hi>Créud atá gach aon pheacadh ag toilltinn?</hi>
+            </p>
+            <p>F. Atà gach aon pheacadh ag toill<g ref="char:EOLhyphen"/>tinn feirge, agus mallachadh Dé araon ſan bheathuidhſe, agus ſan bheathuidh atà chum teachd.</p>
+            <p n="85">85. C. <hi>Créud atá Dia ag iarruidh oruinne chum gu bhſédmaoid téarnadh ò na fheirge agus ó na mhallachadhſan a thoill ſinne thaobh ar bpeacaidh?</hi>
+            </p>
+            <p>F. Chum téarnadh ó fheirge agus ó mhallachadh Dè a thoill ſinne ar ſon ar bpeacaidh, atà Dia ag iarruidh oruinne
+<pb n="24" facs="tcp:174810:13"/> Creideamh a Nioſa Crioſd, aithrighe chum na beatha, maille re gnáthughadh di<g ref="char:EOLhyphen"/>chiollach do dhèanamh air na meadhon<g ref="char:EOLhyphen"/>aibh atá an le a muigh, leis an bhfuil Crìoſd ag compártughadh rinne ſochair na ſaoirſe.</p>
+            <p n="86">86. C. <hi>Créud is Creideamh a Nioſa Críoſd ann?</hi>
+            </p>
+            <p>F. Creideamh a Nioſa Críoſd is grás ſlàintamhail é, leis an bhfuil ſinne ga ghabhailſan, agus ag ar ſocrughadh fein airſan na aonar chum ſlàinte, mar atà ſè air na thairgſe dhùinne ſan tſoiſgeul.</p>
+            <p n="87">87. C. <hi>Créud is aithrighe chum na beatha ann?</hi>
+            </p>
+            <p>F. Aithrighe chum na beatha is gràs ſláintamhail ì, leis an bhfuil an peacach (ar mothughadh dhò gu ceart da pheac<g ref="char:EOLhyphen"/>adh fein, agus do thròcaire Dhia ann a Ncrioſd) le doilghios agus le fuath a pheacaidh ag iompodh uaidh gu Dia, le lân-rùn, agus guá-thairgſe nuadhumh<g ref="char:EOLhyphen"/>lachd do thabhairt dò.</p>
+            <p n="88">88. C. <hi>Créud iad na meadhoin on le a<g ref="char:EOLhyphen"/>muigh, leis an bhfuil Críoſd ag comhpártugh<g ref="char:EOLhyphen"/>adh rinne ſochair na ſaoirſe?</hi>
+            </p>
+            <p>F. Is iad na meadhoin ſin, òrduighe Chrìoſd, gu hárid an focal, Sàcramuin<g ref="char:EOLhyphen"/>teadhá agus Urnuighe: atá gu huilidhe air andèanamh éifeachdach chum ſlàinte, do na daoinaibh taghte.</p>
+            <p n="89">89. C. <hi>Cionnas atá an focal ar na dhéan<g ref="char:EOLhyphen"/>amh éifeachdach chum ſláinte?</hi>
+            </p>
+            <p>F. Ata Spiorad Dé ag dèanamh léigh<g ref="char:EOLhyphen"/>thoireachd
+<pb n="25" facs="tcp:174810:13"/> a nfhocail acht gu hárid a ſhearmonughadh; na mheadhon éifeach<g ref="char:EOLhyphen"/>dach chum peacacha fhágbhail ris, agus dà niompodh, agus dà ntogbhail ſuas ann naomhthachd, agus a ngcomhfhur<g ref="char:EOLhyphen"/>tachd trìd creideamh chum ſláinte.</p>
+            <p n="90">90. C. <hi>Cionnas is còir an focal do léigh<g ref="char:EOLhyphen"/>adh agus do éisteachd, chum gu mbiodh ſé èifeachdach chum ſlánuighthe?</hi>
+            </p>
+            <p>F. Chum gu dèanta an focal éifeach<g ref="char:EOLhyphen"/>dach chum ſlànuighthe, is féidhmoil dùinne aire do thabhairt dò le ullmhugh<g ref="char:EOLhyphen"/>adh, le ur uighe, agus le díthchioll; a ghabhail chuguinn le creideamh agus grádh, a chur an taiſge ionar gcroidh<g ref="char:EOLhyphen"/>eadhaibh, agus a chur a ngniomh ionar mbeathuidh.</p>
+            <p n="91">91. C. <hi>Cionnas atà na Sácramuinteadha ar na ndèanamh na meadhoin éifea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hdach chum ſlànuighthe?</hi>
+            </p>
+            <p>F. Atáid na Sàcramuinteadha, ar na ndéan<g ref="char:EOLhyphen"/>amh eifeachdach chum ſláinte, ni hann o bhrìgh ar bith ata ionnta fein, nò ſan tí do nì a mfritheoladh, achd trìd bheann<g ref="char:EOLhyphen"/>ughadh Chrìoſd amháin, agus oibriugh<g ref="char:EOLhyphen"/>adh a Spioradſan, ſan droing a ghabhas chuca iad le creideamh.</p>
+            <p n="92">92. C. <hi>Créud is Sácramuint ann?</hi>
+            </p>
+            <p>F. An Tſacramuint is òrdughadh naomh<g ref="char:EOLhyphen"/>tha, le Crìoſd i, iona bhfuil Crìoſd, agus ſochair chumhnanta na ngrás, air an tais<g ref="char:EOLhyphen"/>beineadh, agus air an ſèlughadh, agus air na ngcur ris na gcreidmhachaibh le comh<g ref="char:EOLhyphen"/>arthaibh corpordha ſo-fhaicſin.</p>
+            <pb n="26" facs="tcp:174810:14"/>
+            <p n="93">93. C. <hi>Cia iad Sàcramuinteadha an Tiomna Nuaidhe?</hi>
+            </p>
+            <p>F. Is iad Sàcramuinteadha an Tiomna Nuaidhe, Baiſteadh, agus Suipeir an Tighearna.</p>
+            <p n="94">94. C. <hi>Créud is Baìsteadh ann?</hi>
+            </p>
+            <p>F. An Baiſteadh is Sacramuint é, ann a bhfuil ionnlad le huiſge, a nainm a nathar, agus an mhic, agus an Spioraid naoimh, ag ciallughadh agus ag ſélugh<g ref="char:EOLhyphen"/>adh gu bhfuil ſinne air ar ſuighughadh ann a Ncrìoſd, agus ionar luchd comh<g ref="char:EOLhyphen"/>párt do ſhochairaibh chumhnanta na ngrás, agus ag ſélughadh fos ar mbòid gur leis an Tighearna ſinn.</p>
+            <p n="95">95. C. <hi>Cia da ngcóir a Mhaiſteadh do fhritheoladh?</hi>
+            </p>
+            <p>F. Nior chóir an Baiſteadh do fhrith<g ref="char:EOLhyphen"/>eoladh déin-neach atá an taobh amuigh do neagluis fhaicſionnigh, nò gu naid<g ref="char:EOLhyphen"/>mheochaid a ngcreideimh ann a Ncríoſd, agus a numhlachd dhò, acht is còir naoidheana na droinge, atá iona mbuill do neaglais fhaicſionnigh, do bhaiſd<g ref="char:EOLhyphen"/>eadh.</p>
+            <p n="96">96. C. <hi>Crèud í ſuipeir an Tighearna?</hi>
+            </p>
+            <p>F. Suipeir an Tighearna is Sàcramuint í ann a bhfuil bàs Chríoſd ar na fhoill<g ref="char:EOLhyphen"/>ſiughadh, le aran agus fíon do thabhairt agus do ghabhail do rèir a òrduighe fein agus an drong aghabhas chuca gu niom<g ref="char:EOLhyphen"/>chubhidh iad, atáid ſiad (ni ar mhodh feòlmhar, achd) tríd chreideamh ar a ndéanamh na nluchd comhpàrtach da
+<pb n="27" facs="tcp:174810:14"/> chorp agus da fhuilſan, le uile ſhocharaibh chum a naltrum agus a mfàs a ngrás.</p>
+            <p n="97">97. C. <hi>Créud is féidhmoil do ndruing ſin a dhéanamh, leis a mbáill Suipeir an Tighearna d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ghabhaid gu hiomchuibhidh?</hi>
+            </p>
+            <p>F. Is féidhmoil dhoibh iad fein a cheaſnughadh iona neòlas chum aithne do dhèanamh air chorp an Tighearna, iona ngcreideamh chum beatha a nanama do tharruing as, iona naithreachas, ná ngrádh, agus nà nuadh-umhlachd: deagla, ar dteachd doibh gu neamh-iomchubhaidh gu nithfuid agus gu nòlfuid breitheamh<g ref="char:EOLhyphen"/>nas doibh fein.</p>
+            <p n="98">98. C. <hi>Crèud is urnuighe ann?</hi>
+            </p>
+            <p>F. Is í is urnuighe ann, tabhairt ſuas ar nathchoingthe do Dhia, ag iarraidh neitheanna do réir a thoil a nainm Chríoſd, ag admhail ar bpeacaidh, agus ag tabhairt buidheachas dò ar ſon a thiodhlaicaibh.</p>
+            <p n="99">99. C. <hi>Créud an riaghail thug Dia dhùinne dar ſeòladh ann urnuighe do dhèan<g ref="char:EOLhyphen"/>amh?</hi>
+            </p>
+            <p>F. Atà focal Dè gu huilidhe gar ſéol<g ref="char:EOLhyphen"/>adh a nurnuigh do dhèanamh, acht is í an riaghail ſhunnradhach a ſheòlas ſinn, a nfhoirm urnuighe ſin do theagaiſg Crìoſd da dheiſgioblaibh da ngoirthar, gu ccoit<g ref="char:EOLhyphen"/>chionda urnuighe an Tighearna.</p>
+            <p n="100">100. C. <hi>Créud atà rom<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ráite urnuighe an Tighearna ag teagaſg dhúinne?</hi>
+            </p>
+            <p>F. Atà Romhràite urnuighe an Ti<g ref="char:EOLhyphen"/>ghearna
+<pb n="28" facs="tcp:174810:15"/>
+[Iodhon, <hi>Ar nathairne atá air neamh</hi>] ag teagaſg dhùinne teachd a bhfogas do Dhia le gach uile urram naomhtha agus muinghin, mar chloinn chum a nathar, atà comaſach agus ullamh dar cùidiughadh; agus gur cóir guidhe dhéanamh maille re daoinaibh eile, agus air an ſon.</p>
+            <p n="101">101. C. <hi>Créud atá ſinn ag guidhe ſan<g ref="char:EOLhyphen"/>chéud iarrtas?</hi>
+            </p>
+            <p>F. San chèud iarrtas [iodhon, <hi>Gu ma beannaighthe hainmſe</hi>] ata ſinn ag guidhe gu ma toil le Dia ſinne agus daoine eile do dhèanamh comaſach air è fein do ghlorughadh anns gach éinni leis an bhfuil ſè ga fhoillſiughadh fein dhùinne, agus gu ma toil leis gach nì do ſhuighughadh agus órdughadh chum a ghlòire fein.</p>
+            <p n="102">102. C. <hi>Créud atá ſinn ag guidhe ſan dara hiarrtas?</hi>
+            </p>
+            <p>F. San dara hiarrtas [iodhon, <hi>Gu dtigeadh do ríoghachdſa</hi>] atà ſinn ag guidhe Dhé rìoghachd a naibhirſeoir do ſgrios, agus ríoghachd na ngràs do mhéudugh<g ref="char:EOLhyphen"/>adh, ſinn fein agus daoine eile do tharr<g ref="char:EOLhyphen"/>uing da thionnſaidh, agus do choimhead innte, agus rìoghachd na glòire do luathughadh.</p>
+            <p n="103">103. C. <hi>Créud atá ſinn ag guidhe ſan treas iarrtas?</hi>
+            </p>
+            <p>
+               <hi>F.</hi> San treas iarrtas [iodhon, <hi>Déan<g ref="char:EOLhyphen"/>tar do thoilſi ar dtalmhain mar do nithar air neamh,</hi>] atàmuid ag guidhe Dhé
+<pb n="29" facs="tcp:174810:15"/> ſinne do dhèanamh comaſach agus deòn<g ref="char:EOLhyphen"/>ach le na ghràs, chum còlas a ghabhail ar a thoil fein, do bheith freagrach agus umhal dì anns gach éinni, amhuil mar atáid na haingil ar neamh.</p>
+            <p n="104">104. C. <hi>Créud atá ſinn ag guidhe ſan cheathramh iarrtas?</hi>
+            </p>
+            <p>F. San cheathramh iarrtas [iodhon, <hi>Tabhair dhùinn a niugh ar naran láeth<g ref="char:EOLhyphen"/>eamhail,</hi>] atá ſinn ag iarruidh gu bfhuigh<g ref="char:EOLhyphen"/>maoid do ſhaor-thoirbheartas Dé, rann chuimſeach do neithaibh maithe na beathaſa, agus gu mealmoid a bheann<g ref="char:EOLhyphen"/>ughadh fein maille riù.</p>
+            <p n="105">105. C. <hi>Créud atá ſinn ag guidhe ſan chùigeadh iarrtas?</hi>
+            </p>
+            <p>F. San chùigeadh iarrtas [iodhon, <hi>Agus maith dhùime ar bhfiacha, amhluidh mar mhaithmuid dar bhfèicheamhnaibh</hi>] atá<g ref="char:EOLhyphen"/>muid ag guidhe Dhé maitheamhnas do thabhairt dúinn gu ſaor ann ar nuile pheacaidhaibh air ſon Chrìoſd: agus is mòid ar miſneach ſo iarraidh, gu bhfuil<g ref="char:EOLhyphen"/>maoid air ar neartughadh trìd a ghrás<g ref="char:EOLhyphen"/>ſan, ann maitheamhnas do thabhairt do dhaoinaibh eile ò ar gcroidhe.</p>
+            <p n="106">1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. C. <hi>Créud atá ſinn ag guidhe ſan tſeiſeadh iarrtas?</hi>
+            </p>
+            <p>F. San tſeiſeadh iarrtas [iodhon, <hi>Agus na leig a mbuaidhreadh ſinn, achd ſaor ſinn ô olc</hi>] atà ſinn ag guidhe Dhé ar gcoimhead o bheith air ar mbuaidhreadh chum peacaidh; nò ar gcongbhail ſuas, agus ar ſaoradh an tan do bhuaidhrear ſinn.</p>
+            <pb n="30" facs="tcp:174810:16"/>
+            <p n="107">107. C. <hi>Créud atá comhdhùnadh ur<g ref="char:EOLhyphen"/>nuighe an Tighearna ga theagaſg dhùinne?</hi>
+            </p>
+            <p>F. At<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comhdhùnadh urnuighe an Tighearna (iodhon, <hi>Oir is leatſa an ríogh<g ref="char:EOLhyphen"/>achd, agus an cumhachd, agus an ghlòir, gu ſíorruidh,</hi> Amen.] Ag teagaſg dhúinne ar miſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>each a nurnuighe do ghabhail ò Dhia amhàin, agus ionar nurnuighe eiſ<g ref="char:EOLhyphen"/>ean do mholadh; le rìoghachd cumhachd, agus glóire do thabhairt dò: agus mar fhiaghnuiſe air ar miann, agus ar dearbh<g ref="char:EOLhyphen"/>beachd a nèiſdeachd fhaghail, deirmid, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="ten_commandments">
+            <pb n="31" facs="tcp:174810:16"/>
+            <head>Na deich Aitheanta, <hi>Exod.</hi> 20.</head>
+            <p>DO labhair Dia na briathra ſo uile ag rádh. Is miſe an Tighearna do Dhia, an neach tug thuſa amach as talamh na Héghiphte, as tigh na daoirſe.</p>
+            <p n="1">
+               <hi>I.</hi> Na biodh Dèe ar bith eile agad am fhiaghnuiſe.</p>
+            <p n="2">
+               <hi>II.</hi> Na déan duit fein íomhaigh ghrábhalta, nó én-fhioghair neithe atà ſhuas air neamh, nó ar talmhuin a bhos, nò ſa nuiſge faoi thalmhuin, ná géillſi dhoibh, agus ná dèan ſeirbhis doibh: Oir miſe an Tighearna do Dhia is Dia éadmhar me, leanas aingidh<g ref="char:EOLhyphen"/>achd na naithreadh air an gcloinn, gu nuige an treas nò an ceathramh cém no glún ghin<g ref="char:EOLhyphen"/>ealuigh air an droing fhuathuigheas me, agus a fhoillſigheas tròcaire do mhíltibh don droing a ghrádhuigheas me, agus a choimh<g ref="char:EOLhyphen"/>eadas maitheanta.</p>
+            <p n="3">
+               <hi>III.</hi> Na tabhair ainm an Tighearna do Dhia an diomhaoinas: Oir ge bè bheiras a ainm an díomhaoinas, ni bu neamhchiontach a bhfiaghnuiſe an Tighearna é, nò, ní am meas an Tighearna neamhchiontach è.</p>
+            <p n="4">
+               <hi>IV.</hi> Cuimhnigh lá na Sáboide a choimh<g ref="char:EOLhyphen"/>ead naomhtha: a ſè láethibh déan hobair, agus huile ſhaotháir; acht is è an ſeachd<g ref="char:EOLhyphen"/>mhadh lá, Sáboide an Tighearna do Dhia, na
+<pb n="32" facs="tcp:174810:17"/> déan én-obair ſan ló ſin, tu fein, nò do mhac, nó hinghean, hòglach, nò do bhanóglach, nó hainmhidhe, nó do choigcrioch atá nta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bh afligh dot dhoirſibh: Oir a ſè làethibh do rinn an Tighearna, neamh agus talamh, a nfhairge agus gach nì atá ionnta, agus do ghabh ſè comhnuídh an ſeachdmhachd là; uime ſin do bheannuigh an Tighearna là na Sáboide, agus do naomhthuigh ſe é.</p>
+            <p n="5">
+               <hi>V.</hi> Tabhair onoir do tathair agus dot mhà<g ref="char:EOLhyphen"/>thair, chum gu ſínfidhe do làethe air a nfhea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ann, do bheir an Tighearna do Dhia dhuit.</p>
+            <p n="6">
+               <hi>VI.</hi> Na dèan marbhadh.</p>
+            <p n="7">
+               <hi>VII.</hi> Na déan adhaltrannus.</p>
+            <p n="8">
+               <hi>VIII.</hi> Na dèan goid.</p>
+            <p n="9">
+               <hi>IX.</hi> Na déan fiaghnuiſi bhrèige a naghuidh do chomharſan.</p>
+            <p n="10">
+               <hi>X.</hi> Na ſmuain duit fein áros nò teach do chomharſain, nà ſmuain duit fein b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an do chomharſain, nò a òglach, nò a bhanòglach, nò a dhamh, nó a aſal, nò èinni eile bhean<g ref="char:EOLhyphen"/>as dod chomharſan.</p>
+         </div>
+         <div type="Pater_Noster">
+            <head>Urnuighe an TIGHEARNA.</head>
+            <p>AR Nathairne atá air Neamh, Go ma beannuighte hainmſa, Gu dtigeadh do Rìoghachdſa, Dèantar do thoilſi air dtal<g ref="char:EOLhyphen"/>mhuin mar atà air Neamh, Tabhair dhúinn a niugh ar naran làetheamhuil, Agus maith dhùinne ar bhfiacha, amhuil mhaithinuid dar bhféicheamhnuibh, Agus na leig a mbuaidhreadh ſinn acht ſaor ſinn o olc: Oir is leatſa an ríoghachd, agus an cumhachd, agus an ghlóir gu ſío ruidh, <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="apostles_creed">
+            <pb n="33" facs="tcp:174810:17"/>
+            <head>A CHRED.</head>
+            <p>CReidim a Ndia an Tathair uilechumh<g ref="char:EOLhyphen"/>achdach, cruthuightheoir neamh agus talmhuin: Agus a Nìoſa Crìoſd aon-Mhacſan ar Tighearna, neach do ghabhadh leis an Spiorad naomh, do rugadh le Muìre óighe, do fhuiluing páis faoi <hi>Phontius Phi<g ref="char:EOLhyphen"/>lait,</hi> do chèſadh, do fhuair bás, do adh<g ref="char:EOLhyphen"/>lacadh, do chuaidh ſíos a nifrionn, do èirigh air an<note n="*" place="margin">Dfuirigh ſè a nſtaid na marbh, agus faoi chumh<g ref="char:EOLhyphen"/>achd a bháis gu nuig an treas lá.</note> treas là ò na marbhaibh, do chuaidh ſuas air neamh do ſhuigh ar deaſláimh Dhè a nathar uilechumhach<g ref="char:EOLhyphen"/>taich; as ſin do thiocfas do thabhairt breitheamh<g ref="char:EOLhyphen"/>nuis ar bh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>thaibh agus ar mharbhaibh: Creidim ſan Spiorad naomh: Gu bhfuil Eaglais naomhrha gu huilidhe ann, comhchomunn na naomh, maitheamhnas na mbpeacadh, eiſeirigh na colla, agus a bheatha ſhuthain. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174810:18"/>
+            <pb facs="tcp:174810:18" rendition="simple:additions"/>
+            <pb facs="tcp:174810:19" rendition="simple:additions"/>
+            <pb facs="tcp:174810:19" rendition="simple:additions"/>
+            <pb facs="tcp:174810:20" rendition="simple:additions"/>
+            <pb facs="tcp:174810:20" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
